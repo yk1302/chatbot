@@ -1,3 +1,3 @@
-const OPENAI_API_KEY = "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";
+const OPENAI_API_KEY = "YOUR KEY";
 
 
