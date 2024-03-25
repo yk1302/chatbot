@@ -1,6 +1,6 @@
-# chatgpt
+# chatBot
 
-A new Flutter project.
+A flutter Application where user can ask any question and using chatgpt api app generate response.
 
 ## Getting Started
 
